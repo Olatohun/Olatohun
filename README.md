@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olatohun
 - 👀 I’m interested in computational linguistics
 - 🌱 I’m currently learning ML, NLP
-- 💞️ I’m looking to collaborate on NLP
+- 💞️ I’m looking to collaborate on NLP and ML
 - 📫 How to reach me tohun007@gmail.com
 
 <!---
