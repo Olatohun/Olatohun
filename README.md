@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Olatohun
-- 👀 I’m interested in computational linguistics
-- 🌱 I’m currently learning ML, NLP
-- 💞️ I’m looking to collaborate on NLP and ML
-- 📫 How to reach me tohun007@gmail.com
+- 👀 I aspire to becoming a computational linguist
+- 🌱 I’m currently taking Data Science classes at Udacity
+- 💞️ I’m looking to collaborate on Natural Language Processing and Machine Learning
+- 📫 How to reach me maryamoyeyiola@gmail.com
 
 <!---
 Olatohun/Olatohun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
