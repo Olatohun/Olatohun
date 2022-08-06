@@ -1,6 +1,10 @@
-I’m Maryam Oyeyiola, I enjoy carryng out research and learning technical materials. I have over a year experience in Data Science and Machine Learning research. I have had a lot of practice with Machine Learning algorithms and Data Analysis. 
+I’m **Maryam Oyeyiola**, I have a strong background in Linguistics and research. I am currently enrolled in Applied Linguistics master's program. 
 
-Open to entry level positions in the fields of Data Science and Machine Learning
+I have over a year experience in **Data Science and Machine Learning research**. 
+
+I have had a lot of practice with Machine Learning algorithms and Data Analysis. 
+
+Open to **entry level positions** in the fields of Data Science and Machine Learning
 
 <!---
 Olatohun/Olatohun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
