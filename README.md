@@ -1,4 +1,4 @@
-I’m **Maryam Oyeyiola**, I have a strong background in Linguistics and research. I am currently enrolled in Applied Linguistics master's program. 
+I’m **Maryam Oyeyiola**, I have a strong background in Linguistics and research.
 
 I have over a year experience in **Data Science and Machine Learning research**. 
 
